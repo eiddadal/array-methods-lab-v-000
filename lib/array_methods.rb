@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array.inculde?(element)
+  array.inculde?("wow")
 end
 
 def using_sort(array)
